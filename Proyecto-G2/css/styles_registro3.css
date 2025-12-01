@@ -11,7 +11,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: var(--dark-bg);
 
-
+    background-image: url('/img/fondo-casino.png'); 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -32,39 +32,6 @@ body {
     overflow: hidden;
 }
 
-.btn_nuevouser a{
-    color: #000;
-    text-decoration: none;
-}
-
-.btn_ini_gm{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    font-weight: bold;
-}
-
-.google_logo{
-    width: 20px;
-}
-
-.microsoft_logo{
-    width: 20px;
-}
-
-.btn_intranet{
-    border: 1px solid #1374F3;
-    background-color: black;
-    color: white;
-    border-radius: 5px;
-}
-.btn_intranet:hover{
-    border: 1px solid white;
-    background-color: #1374F3;
-    color: white;
-}
-
 
 .form-control {
     background: transparent;
@@ -82,6 +49,17 @@ body {
     color: white;
 }
 
+.desplegable{
+    background-color: #000;
+}
+
+.mascot-img{
+    margin-bottom: -50px;
+}
+
+.selec{
+    color: white;
+}
 
 .btn-gold {
     background-color: var(--primary-gold);
@@ -127,7 +105,6 @@ body {
     font-size: 1.2rem;
 }
 
-
 .mascot-img {
     max-height: 500px;
     object-fit: contain;
@@ -156,9 +133,6 @@ body {
     font-weight: bold;
     z-index: 2;
 }
-
-
-
 
 .stepper-container {
     position: relative;
@@ -259,4 +233,20 @@ body {
     font-size: 10px;
     color: white;
     margin-top: 8px;
+}
+
+.bono_img1{
+    width: 65px;
+}
+
+.bono_img1 img{
+    width: 65px;
+}
+
+.bono_img2{
+    width: 80px;
+}
+
+.bono_img2 img{
+    width: 80px;
 }
