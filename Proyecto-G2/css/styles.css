@@ -58,6 +58,7 @@ body {
     background-color: black;
     color: white;
     border-radius: 5px;
+    text-decoration: none;
 }
 .btn_intranet:hover{
     border: 1px solid white;

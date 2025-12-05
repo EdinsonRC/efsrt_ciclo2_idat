@@ -54,7 +54,7 @@ body {
 }
 
 .mascot-img{
-    margin-bottom: -50px;
+    padding-bottom: -810px;
 }
 
 .selec{
@@ -112,6 +112,9 @@ body {
     z-index: 10;
 }
 
+.chica-mascota{
+    margin-bottom: -55px;
+}
 
 .step-indicator {
     display: flex;
@@ -252,18 +255,133 @@ body {
 }
 
 .sliderimg{
-width: 250px;
-gap: 25px;
-cursor: pointer;
+    width: 280px;
+    padding-left: 20px;
+    margin-right: 20px;
+    cursor: pointer;
+    align-items: center;
 }
 
 .juegosbarra{
     display: flex;
+    justify-content: center;
+    align-items: center;
     gap: 25px;
     cursor: pointer;
-    padding-left: 50px;
     padding-top: 35px;
 }
 .juegosbtn{
     width: 80px;
+}
+
+.jbtn1{
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.jbtn1:hover{
+    transform: scale(1.2);
+}
+
+.jbtn2{
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.jbtn2:hover{
+    transform: scale(1.2);
+}
+
+.jbtn3{
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.jbtn3:hover{
+    transform: scale(1.2);
+}
+
+.jbtn4{
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.jbtn4:hover{
+    transform: scale(1.2);
+}
+
+.jbtn5{
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.jbtn5:hover{
+    transform: scale(1.2);
+}
+
+.jbtn6{
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.jbtn6:hover{
+    transform: scale(1.2);
+}
+
+.jbtn7{
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.jbtn7:hover{
+    transform: scale(1.2);
+}
+
+.jbtn8{
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.jbtn8:hover{
+    transform: scale(1.2);
+}
+
+.jbtn9{
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.jbtn9:hover{
+    transform: scale(1.2);
+}
+
+.jbtn10{
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.jbtn10:hover{
+    transform: scale(1.2);
+}
+
+.jbtn11{
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.jbtn11:hover{
+    transform: scale(1.2);
+}
+
+.jbtn12{
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.jbtn12:hover{
+    transform: scale(1.2);
+}
+
+.jbtn13{
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.jbtn13:hover{
+    transform: scale(1.2);
+}
+
+.jbtn14{
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+.jbtn14:hover{
+    transform: scale(1.2);
 }
